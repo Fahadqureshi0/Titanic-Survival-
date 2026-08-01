@@ -3,7 +3,7 @@ import pickle
 import streamlit as st
 
 # Loading Saved Model
-titanic_survival_model = pickle.load(open('trained_model.sav','rb'))
+titanic_survival_model = pickle.load(open('Titanic_Survival_Preditction_System/trained_model.sav','rb'))
 
 # Prediction Function
 def titanic_prediction(input_data):
