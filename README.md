@@ -54,3 +54,7 @@ streamlit run titanic_survival_prediction.py
 ## 👨‍💻 Author
 
 **Fahad Qureshi**
+
+## 📄 License
+
+This project is licensed under the MIT License.
